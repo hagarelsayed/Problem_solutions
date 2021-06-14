@@ -11,12 +11,7 @@ The second line contains n integers ai (1 ≤ ai ≤ 2h), the i-th of th
 Output Print a single integer — the minimum possible valid width of the road.
 '''
 
-
-
-
-
-
-
+#The first two lines allow taking input from the user
 n,h =map(int,input().split())   # first input
 a=list(map(int,input().split())) # second input
 
